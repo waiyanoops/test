@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+table {border: 0px solid black;}
+td { background-color: darkgrey;
+color: white;}
+td:hover {background-color:whitesmoke;}
+
+#banner { 
+	text-align: center;
+	}
+#navbar
+{ text-align: justify;
+background-color: burlywood;}
+#content
+{ position: relative;
+  right: 400px;
+  left: 10px;
+  text-align: inherit; 
+  font-size: 28 px;
+  font: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+}
+#footer
+{ text-align: center;
+
+}
+.underline { text-decoration: underline;
+color: blue;}
+.image { position: relative;
+ left:20px; float: right;
+}
+.image2 {position: relative;
+left: 300px;
+}
+.image3 { position: relative;
+float: right;}
+
